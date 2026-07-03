@@ -1,6 +1,6 @@
-# InvisQ
+# InvisQ Project Structure
 
-<h1>Folder Structure</h1>
+``` text
 InvisibleQueue/
 │
 ├── client/                         # React Frontend
@@ -146,3 +146,4 @@ InvisibleQueue/
 ├── .gitignore
 │
 └── package.json
+```
